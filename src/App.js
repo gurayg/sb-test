@@ -13,7 +13,7 @@ export default function MyApp() {
 function Form() {
   return (
     <Panel title="Welcome">
-      <Button>Sign up</Button>
+      <Button>Sign up 15</Button>
       <Button>Log in</Button>
       <ThemeContext.Provider value="light">
         <Footer />
